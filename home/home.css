@@ -189,7 +189,7 @@ main {
 
 
 
-   background-image: url("../src/home.jpg");
+   background-image: url("src/home.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
@@ -363,7 +363,7 @@ main {
 
 
 
-    background-image: url("../src/home.jpg");
+    background-image: url("src/home.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -465,7 +465,7 @@ main {
 
 
 
-    background-image: url("../src/giraffe-home.jpg");
+    background-image: url("src/giraffe-home.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -485,7 +485,7 @@ main {
 
 
 
-    background-image: url("../src/elephant-home.jpg");
+    background-image: url("src/elephant-home.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -508,7 +508,7 @@ main {
 
 
 
-    background-image: url("../src/lion-home.jpg");
+    background-image: url("src/lion-home.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -791,7 +791,7 @@ nav ul li:hover{
 
 
 
-   background-image: url("../src/giraffe-home.jpg");
+   background-image: url("src/giraffe-home.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
@@ -819,7 +819,7 @@ nav ul li:hover{
 
 
 
-   background-image: url("../src/elephant-home.jpg");
+   background-image: url("src/elephant-home.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
@@ -852,7 +852,7 @@ nav ul li:hover{
 
 
 
-   background-image: url("../src/lion-home.jpg");
+   background-image: url("src/lion-home.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
